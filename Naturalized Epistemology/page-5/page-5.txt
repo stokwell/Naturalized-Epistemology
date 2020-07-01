@@ -1,0 +1,45 @@
+
+384 / Jaegwon Kim 
+
+ticular, Quine's-it will be useful to take a brief look at the classic 
+response to the epistemological program set forth by Descartes. 
+Descartes' approach to the problem of justification is a familiar story, 
+at least as the textbook tells it: it takes the form of what is now com- 
+monly called "foundationalism". The foundationalist strategy is to 
+divide the task of explaining justification into two stages: first, to iden- 
+tify a set of beliefs that are "directly" justified in that they are justified 
+without deriving their justified status from that of any other belief, 
+and then to explain how other beliefs may be "indirectly" or "in- 
+ferentially" justified by standing in an appropriate relation to those 
+already justified. Directly justified beliefs, or "basic beliefs", are to 
+constitute the foundation upon which the superstructure of "nonbasic" 
+or "derived" beliefs is to rest. What beliefs then are directly justified, 
+according to Descartes? Subtleties aside, he claimed that beliefs about 
+our own present conscious states are among them. In what does their 
+justification consist? What is it about these beliefs that make them 
+directly justified? Somewhat simplistically again, Descartes' answer 
+is that they are justified because they are indubitable, that the atten- 
+tive and reflective mind cannot but assent to them. How are non- 
+basic beliefs justified? By "deduction"-that is, by a series of inferen- 
+tial steps, or "intuitions", each of which is indubitable. If, therefore, 
+we take Cartesian indubitability as a psychological notion, Descartes' 
+epistemological theory can be said to meet the desideratum of pro- 
+viding nonepistemic, naturalistic criteria of justified belief. 
+Descartes' foundationalist program was inherited, in its essential 
+
+outlines, by the empiricists. In particular, his "mentalism", that beliefs 
+about one's own current mental state are epistemologically basic, 
+went essentially unchallenged by the empiricists and positivists, 
+until this century. Epistemologists have differed from one another 
+chiefly in regard to two questions: first, what else belonged in our 
+corpus of basic beliefs, and second, how the derivation of the non- 
+basic part of our knowledge was to proceed. Even the Logical 
+Positivists were, by and large, foundationalists, although some of 
+them came to renounce Cartesian mentalism in favor of a 
+"physicalistic basis".7 In fact, the Positivists were foundationalists 
+twice over: for them "observation", whether phenomenological or 
+physical, served not only as the foundation of knowledge but as the 
+foundation of all "cognitive meaning"-that is, as both an 
+epistemological and a semantic foundation. 
+
+

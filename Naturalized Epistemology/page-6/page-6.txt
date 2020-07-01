@@ -1,0 +1,47 @@
+
+What is "Naturalized Epistemology"? / 385 
+
+3. Quine's Arguments 
+
+It has become customary for epistemologists who profess allegiance 
+to a "naturalistic" conception of knowledge to pay homage to Quine 
+as the chief contemporary provenance of their inspiration-especially 
+to his influential paper "Epistemology Naturalized".8 Quine's prin- 
+cipal argument in this paper against traditional epistemology is bas- 
+ed on the claim that the Cartesian foundationalist program has 
+failed-that the Cartesian "quest for certainty" is "a lost cause". While 
+this claim about the hopelessness of the Cartesian "quest for certain- 
+ty" is nothing new, using it to discredit the very conception of nor- 
+mative epistemology is new, something that any serious student of 
+epistemology must contend with. 
+Quine divides the classic epistemological program into two parts: 
+
+conceptual reduction whereby physical terms, including those of 
+theoretical science, are reduced, via definition, to terms referring 
+to phenomenal features of sensory experience, and doctrinal reduc- 
+tion whereby truths about the physical world are appropriately ob- 
+tained from truths about sensory experience. The "appropriateness" 
+just alluded to refers to the requirement that the favored epistemic 
+status ("certainty" for classic epistemologists, according to Quine) of 
+our basic beliefs be transferred, essentially undiminished, to deriv- 
+ed beliefs, a necessary requirement if the derivational process is to 
+yield knowledge from knowledge. What derivational methods have 
+this property of preserving epistemic status? Perhaps there are none, 
+given our proneness to err in framing derivations as in anything else, 
+not to mention the possibility of lapses of attention and memory in 
+following lengthy proofs. But logical deduction comes as close to be- 
+ing one as any; it can at least be relied on to transmit truth, if not 
+epistemic status. It could perhaps be argued that no method can 
+preserve certainty unless it preserves (or is known to preserve) truth; 
+and if this is so, logical deduction is the only method worth consider- 
+ing. I do not know whether this was the attitude of most classic 
+epistemologists; but Quine assumes that if deduction doesn't fill their 
+bill, nothing will. 
+
+Quine sees the project of conceptual reduction as culminating in 
+Carnap's Der Logische Aufbau der Welt. As Quine sees it, Carnap 
+"came nearest to executing" the conceptual half of the classic 
+epistemological project. But coming close is not good enough. 
+Because of the holistic manner in which empirical meaning is 
+
+

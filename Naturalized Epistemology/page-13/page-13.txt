@@ -1,0 +1,48 @@
+
+392 / Jaegwon Kim 
+
+5. Belief Attribution and Rationality 
+
+Perhaps we have said enough to persuade ourselves that Quine's 
+naturalized epistemology, while it may be a legitimate scientific in- 
+quiry, is not a kind of epistemology, and, therefore, that the ques- 
+tion whether it is a better kind of epistemology cannot arise. In 
+reply, however, it might be said that there was a sense in which 
+Quine's epistemology and traditional epistemology could be viewed 
+as sharing a common subject matter, namely this: they both concern 
+beliefs or "representations". The only difference is that the former 
+investigates their causal histories and connections whereas the lat- 
+ter is concerned with their evidential or justificatory properties and 
+relations. This difference, if Quine is right, leads to another (so con- 
+tinues the reply): the former is a feasible inquiry, the latter is not. 
+I now want to take my argument a step further: I shall argue that 
+
+the concept of belief is itself an essentially normative one, and in 
+consequence that if normativity is wholly excluded from naturaliz- 
+ed epistemology it cannot even be thought of as being about beliefs. 
+That is, if naturalized epistemology is to be a science of beliefs prop- 
+erly so called, it must presuppose a normative concept of belief. 
+Briefly, the argument is this. In order to implement Quine's pro- 
+
+gram of naturalized epistemology, we shall need to identify, and in- 
+dividuate, the input and output of cognizers. The input, for Quine, 
+consists of physical events ("the stimulation of sensory receptors") 
+and the output is said to be a "theory" or "picture of the world"- 
+that is, a set of "representations" of the cognizer's environment. Let 
+us focus on the output. In order to study the sensory input-cognitive 
+output relations for the given cognizer, therefore, we must find out 
+what "representations" he has formed as a result of the particular 
+stimulations that have been applied to his sensory transducers. Set- 
+ting aside the jargon, what we need to be able to do is to attribute 
+beliefs, and other contentful intentional states, to the cognizer. But 
+belief attribution ultimately requires a "radical interpretation" of the 
+cognizer, of his speech and intentional states; that is, we must con- 
+struct an "interpretive theory" that simultaneously assigns meanings 
+to his utterances and attributes to him beliefs and other propositional 
+attitudes.22 
+
+Even a cursory consideration indicates that such an interpretation 
+cannot begin-we cannot get a foothold in our subject's realm of 
+meanings and intentional states-unless we assume his total system 
+
+
